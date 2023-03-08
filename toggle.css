@@ -1,0 +1,18 @@
+.container{
+    width: 250px;
+    height: 150px;
+    box-shadow: 0 0  2px 4px lightgray;
+    text-align: center;
+    margin: auto;
+}
+.togg{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.container{
+    display: none;
+}
+.toggle-cont h1{
+    padding: 20px 0;
+}
